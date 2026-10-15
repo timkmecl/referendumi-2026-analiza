@@ -2,6 +2,8 @@
 
 [Prenesi poročilo](report.pdf)
 
+[Prenesi krajše poročilo](report_short.pdf)
+
 
 Analiziral sem preliminarne (trenutne) rezultate štirih sočasnih
 referendumov (parlamentarna preiskava, RTV, sociala, tujci) na 3190
@@ -42,8 +44,8 @@ outlierjev (32 od 53 v škodo zmagovalca, pričakovano 27 brez zamenjav in
 ločevanje hipotez.
 
 **Rezultati utemeljujejo sum, da gre pri približno 22 od 53 outlierjev
-za zamenjavo števil ZA in PROTI pri vpisu ali prepisu, vendar napak
-zgolj s statistično analizo ne moremo dokončno potrditi**. Da bi
+za zamenjavo števil ZA in PROTI pri vpisu ali prepisu, vendar resničnega obstoja napak
+zgolj s statističnimi analizami ne moremo dokončno potrditi**. Da bi
 hipotezo z veliko zanesljivostjo potrdili ali ovrgli, zadošča že pregled
 zapisnikov in glasovnic na treh označenih voliščih z najmočnejšim
 signalom. Podatki ne kažejo znakov sistematičnega prirejanja.
